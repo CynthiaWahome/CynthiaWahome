@@ -14,7 +14,12 @@
 
 </div>
 
- 
+Happy coding and may the bugs be ever in your favor! 🐛🔮
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Fortune+favors+the+brave!)](https://git.io/typing-svg)
+    
+
+
 [![](https://visitcount.itsvg.in/api?id=CynthiaWahome&icon=0&color=8)](https://visitcount.itsvg.in)
 
   
