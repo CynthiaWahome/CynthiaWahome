@@ -16,6 +16,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CynthiaWahome&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight)
 
+[![An image of @cynthiawahome's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cynthiawahome)](https://holopin.io/@cynthiawahome)
+
 Happy Coding and may the BUGS be ever in your FAVOR! 🐛🔮
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Fortune+favors+the+brave!)](https://git.io/typing-svg)
