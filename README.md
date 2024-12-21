@@ -9,7 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWahome&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CynthiaWahome&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-stats-cycy-c68d0b8085ca.herokuapp.com?user=CynthiaWahome&theme=highcontrast)](https://git.io/streak-stats)
 
 # 🏆 GitHub Trophies
 <div align="center">
