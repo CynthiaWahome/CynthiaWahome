@@ -7,9 +7,10 @@
 # 📊 Stats
 [![Cynthia's github stats](https://bad-apple-github-readme.vercel.app/api?username=CynthiaWahome&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWahome&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff) 
+<!--[!](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWahome&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff) -->
 
-[![GitHub Streak](https://github-stats-cycy-c68d0b8085ca.herokuapp.com?user=CynthiaWahome&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streaks-stats-app-dac52cb0ebbc.herokuapp.com?user=CynthiaWahome&grace_days=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
+
 
 # 🏆 GitHub Trophies
 <div align="center">
