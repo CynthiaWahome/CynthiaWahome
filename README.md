@@ -5,11 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Cynthia!+Starting+from+scratch!;Here+for+an+ADVENTURE!;)](https://git.io/typing-svg)
 
 # 📊 Stats
-[![Cynthia's github stats](https://bad-apple-github-readme.vercel.app/api?username=CynthiaWahome&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
+<!-- [![Cynthia's github stats](https://bad-apple-github-readme.vercel.app/api?username=CynthiaWahome&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)-->
 <!--[!](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWahome&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff) -->
 
-[![GitHub Streak](https://streak-stats-85wnxpg0s-cynthias-projects-267a40d8.vercel.app/?user=CynthiaWahome&grace=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats-gmh8j5l24-cynthias-projects-267a40d8.vercel.app/?user=CynthiaWahome&grace=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
 
 # 🏆 GitHub Trophies
 <div align="center">
