@@ -9,8 +9,7 @@
 
 <!--[!](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWahome&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff) -->
 
-[![GitHub Streak](https://streaks-stats-app-dac52cb0ebbc.herokuapp.com?user=CynthiaWahome&grace_days=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
-
+[![GitHub Streak](https://streak-stats-85wnxpg0s-cynthias-projects-267a40d8.vercel.app/?user=CynthiaWahome&grace=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
 
 # 🏆 GitHub Trophies
 <div align="center">
