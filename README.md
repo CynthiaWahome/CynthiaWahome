@@ -11,10 +11,10 @@
 
 [![GitHub Streak](https://streak-stats-gmh8j5l24-cynthias-projects-267a40d8.vercel.app/?user=CynthiaWahome&grace=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CynthiaWahome&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=CynthiaWahome&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight) -->
 
 [![An image of @cynthiawahome's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cynthiawahome#badges)](https://holopin.io/@cynthiawahome#badges)
 
