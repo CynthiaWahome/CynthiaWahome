@@ -5,22 +5,24 @@
      All card images are served from cynthia-readme-cards.vercel.app.
      =================================================================== -->
 
-<div>
-
-<img align="right" src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/profile_pic.png" width="440" style="max-width: 45%; margin-left: 20px;" />
-
-<img src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/python_header.svg?v=1.1" width="400" style="max-width: 55%;" alt="try: understand_first() then_build() except shortcuts: raise BetterQuestion" />
-
-<br/><br/>
-
-**The logic, the foundations, the stuff that holds everything together behind the scenes — that’s where my fascination lies. <br><br>
-When the logic is right, it’s forgotten. <br>
-When it’s wrong, it’s the only thing that matters.  
-I’m fine with being invisible as long as the system is too.**
-
-<br clear="right" />
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="45%" align="left">
+      <!-- TOP PART: Animated Logic Hook (Tested for Desktop & Mobile) -->
+      <img src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/python_header.svg?v=1.9" width="380" style="max-width: 100%;" alt="try: understand_first() then_build() except shortcuts: raise BetterQuestion" />
+      <br/><br/>
+      <!-- MIDDLE PART: Compact Bio (No-margin HTML) -->
+      <b>The logic, the foundations, the mechanics that holds everything together behind the scenes — that’s where my fascination lies.<br><br>
+      <b>When the logic is right, it’s forgotten.</b><br/>
+      <b>When it’s wrong, it’s the only thing that matters.</b><br/>
+      <b>I’m fine with being invisible as long as the system is too.</b>
+    </td>
+    <td valign="top" align="right" width="55%">
+      <!-- RIGHT SIDE: Large Hero Image (Fluid scaling) -->
+      <img src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/profile_pic.png" width="100%" style="max-width: 530px; border-radius: 20px;" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
