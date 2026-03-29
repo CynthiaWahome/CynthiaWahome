@@ -1,30 +1,109 @@
-<img align='right' src="https://github.com/CynthiaWahome/CynthiaWahome/assets/160864573/f812d093-6662-472e-84b4-812d00c3ac2b)" width="230"/>
+<!-- ===================================================================
+     CYNTHIA WAHOME — GitHub Profile README
+     
+     This is the official README for https://github.com/CynthiaWahome.
+     All card images are served from cynthia-readme-cards.vercel.app.
+     =================================================================== -->
 
-### Hi there, 🤝  
+<div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=53F7AEC5&width=435&height=29&lines=I+am+Cynthia!+Starting+from+scratch!;Here+for+an+ADVENTURE!;)](https://git.io/typing-svg)
+<img align="right" src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/profile_pic.png" width="440" style="max-width: 45%; margin-left: 20px;" />
 
-# 📊 Stats
+<img src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/python_header.svg?v=1.1" width="400" style="max-width: 55%;" alt="try: understand_first() then_build() except shortcuts: raise BetterQuestion" />
 
-<!-- [![Cynthia's github stats](https://bad-apple-github-readme.vercel.app/api?username=CynthiaWahome&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)-->
-<!--[!](https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaWahome&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff) -->
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats-gmh8j5l24-cynthias-projects-267a40d8.vercel.app/?user=CynthiaWahome&grace=3&theme=blue-green)](https://github.com/CynthiaWahome/github-readme-streak-stats)
+**The logic, the foundations, the stuff that holds everything together behind the scenes — that’s where my fascination lies. <br><br>
+When the logic is right, it’s forgotten. <br>
+When it’s wrong, it’s the only thing that matters.  
+I’m fine with being invisible as long as the system is too.**
 
-<!-- # 🏆 GitHub Trophies
-<div align="center">
+<br clear="right" />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CynthiaWahome&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=tokyonight) -->
-
-[![An image of @cynthiawahome's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cynthiawahome#badges)](https://holopin.io/@cynthiawahome#badges)
-
-Happy Coding and may the BUGS be ever in your FAVOR! 🐛🔮
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Fortune+favors+the+brave!)](https://git.io/typing-svg)
-    
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=CynthiaWahome&icon=0&color=8)](https://visitcount.itsvg.in)
+<br/>
 
-  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/tagline.svg" alt="Witty Developer Taglines - Cynthia Wahome" />
+</div>
 
+---
+
+### 📊 Stats
+<div align="center">
+  <a href="https://cynthia-readme-cards.vercel.app/">
+    <img src="https://cynthia-readme-cards.vercel.app/api/github-stats?username=CynthiaWahome&show_icons=true&count_private=true&theme=transparent&title_color=53F7AE&icon_color=53F7AE&text_color=fff&hide_border=true&hide=stars" alt="GitHub Stats for Cynthia Wahome" />
+  </a>
+</div>
+
+---
+
+### 💻 Languages
+<div align="center">
+  <a href="https://cynthia-readme-cards.vercel.app/">
+    <img height="300" src="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=donut-vertical&langs_count=10&theme=transparent&title_color=53F7AE&text_color=fff&hide_border=true&hide=html,css" alt="Top Programming Languages" />
+  </a>
+</div>
+
+---
+
+### ✍️ Articles
+<div align="center">
+  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=1">
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=1" alt="Dev.to Article 1" />
+  </a>
+  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=6">
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=6&pinned=true" alt="Dev.to Pinned Article" />
+  </a>
+  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=2">
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=2" alt="Dev.to Article 2" />
+  </a>
+</div>
+
+---
+
+### ⚡ Streaks
+<div align="center">
+  <a href="https://cynthia-readme-cards.vercel.app/streak">
+    <img src="https://cynthia-streak-engine.vercel.app/?user=CynthiaWahome&theme=transparent&hide_border=true&stroke=53F7AE&ring=53F7AE&fire=53F7AE&currStreakNum=fff&sideNums=fff&sideLabels=53F7AE&dates=53F7AE" alt="GitHub Contribution Streak" />
+  </a>
+</div>
+
+---
+
+### 🏆 Trophies
+<div align="center">
+  <a href="https://cynthia-readme-cards.vercel.app/trophy">
+    <img src="https://cynthia-profile-trophy.vercel.app/?username=CynthiaWahome&theme=tokyonight&no-bg=true&column=5&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+  </a>
+</div>
+
+---
+
+### 🏅 Badges
+<div align="center">
+  <a href="https://holopin.io/@cynthiawahome">
+    <img src="https://holopin.me/cynthiawahome" alt="Cynthia Wahome Holopin Badges" />
+  </a>
+</div>
+
+<br />
+
+---
+
+<br/>
+
+<div align="center">
+  <strong>if you read this far — you're probably my kind of people 🦆</strong>
+  <br/>
+  <em>Need a pair of eyes that cares about resilient foundations? <strong>Let's build together.</strong></em>
+  <br/><br/>
+ <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=53F7AE&center=true&vCenter=true&width=590&lines=%26+currently%3A+somewhere+between+a+bug+and+a+feature." alt="Typing SVG"/>
+ </a>
+   
+</div>
+
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=CynthiaWahome&color=53f7ae&style=flat-square&label=humans+visited+%28probably%29" alt="Visitor Counter" />
