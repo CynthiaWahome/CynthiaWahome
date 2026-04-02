@@ -12,7 +12,7 @@
       <img src="https://raw.githubusercontent.com/cyclone-cycy/cynthia-readme-cards/feat/cynthia-native-engine/assets/python_header.svg?v=1.9" width="380" style="max-width: 100%;" alt="try: understand_first() then_build() except shortcuts: raise BetterQuestion" />
       <br/><br/>
       <!-- MIDDLE PART: Compact Bio (No-margin HTML) -->
-      <b>The logic, the foundations, the mechanics that holds everything together behind the scenes — that’s where my fascination lies.<br><br>
+      <b>The logic, the foundations, the stuff that holds everything together behind the scenes — that’s where my fascination lies.</b><br><br>
       <b>When the logic is right, it’s forgotten.</b><br/>
       <b>When it’s wrong, it’s the only thing that matters.</b><br/>
       <b>I’m fine with being invisible as long as the system is too.</b>
