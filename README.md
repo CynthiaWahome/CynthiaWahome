@@ -55,11 +55,11 @@
   <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=1">
     <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=1" alt="Dev.to Article 1" />
   </a>
-  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=6">
-    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=6&pinned=true" alt="Dev.to Pinned Article" />
+  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=5">
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=5&pinned=true" alt="Dev.to Pinned Article" />
   </a>
-  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=2">
-    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=2" alt="Dev.to Article 2" />
+  <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?index=7">
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?index=7" alt="Dev.to Article 2" />
   </a>
 </div>
 
