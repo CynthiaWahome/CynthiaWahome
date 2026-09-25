@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 GitHub Activity & Tech Stack
+### 📈 GitHub Activity
 <div align="center">
   <a href="https://cynthia-readme-cards.vercel.app/">
     <picture>
@@ -41,24 +41,30 @@
       <img height="215" src="https://cynthia-readme-cards.vercel.app/api/github-stats?username=CynthiaWahome&show_icons=true&count_private=true&theme=transparent&title_color=53F7AE&icon_color=53F7AE&text_color=fff&hide_border=true&hide=stars&v=4" alt="GitHub Stats for Cynthia Wahome" />
     </picture>
   </a>
-  <a href="https://cynthia-readme-cards.vercel.app/">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=compact&langs_count=10&theme=transparent&title_color=0a6644&text_color=1f2328&hide_border=true&hide=html%2Ccss&v=4">
-      <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=compact&langs_count=10&theme=transparent&title_color=53F7AE&text_color=fff&hide_border=true&hide=html%2Ccss&v=4">
-      <img height="215" src="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=compact&langs_count=10&theme=transparent&title_color=53F7AE&text_color=fff&hide_border=true&hide=html%2Ccss&v=4" alt="Top Programming Languages" />
-    </picture>
-  </a>
+
 </div>
+
+---
+
+### 🛠️ Tech Stack
+<!-- 
+Organized Tech Stack (Implicit Categories, 16 per row):
+Row 1 (Languages/Code): go,python,ts,js,nodejs,django,fastapi,express,react,nextjs,graphql,html,css,sass,tailwind,bootstrap
+Row 2 (Cloud/DevOps): aws,gcp,docker,kubernetes,terraform,linux,ubuntu,bash,nginx,cloudflare,ansible,grafana,git,github,githubactions,vercel
+Row 3 (Databases/Tools): postgres,mongodb,redis,mysql,sqlite,prisma,supabase,firebase,npm,vite,webpack,postman,figma,androidstudio,apple,vscode
+-->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,nodejs,django,fastapi,express,react,nextjs,graphql,html,css,sass,tailwind,bootstrap,aws,gcp,docker,kubernetes,terraform,linux,ubuntu,bash,nginx,cloudflare,ansible,grafana,git,github,githubactions,vercel,postgres,mongodb,redis,mysql,sqlite,prisma,supabase,firebase,npm,vite,webpack,postman,figma,androidstudio,apple,vscode&perline=16" alt="Tech Stack" style="max-width: 932px;" />
+</a>
 
 <br/>
+<br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=light&v=5">
-    <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=dark&v=5">
-    <img src="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=dark&v=5" width="100%" style="max-width: 800px;" alt="Scar Tissue — Lessons That Left a Mark" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=light&v=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=dark&v=5">
+  <img src="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=dark&v=5" width="100%" style="max-width: 932px;" alt="Scar Tissue — Lessons That Left a Mark" />
+</picture>
 
 ---
 
