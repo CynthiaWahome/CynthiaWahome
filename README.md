@@ -32,20 +32,32 @@
 
 ---
 
-### 📊 Stats
+### 📈 GitHub Activity & Tech Stack
 <div align="center">
   <a href="https://cynthia-readme-cards.vercel.app/">
-    <img src="https://cynthia-readme-cards.vercel.app/api/github-stats?username=CynthiaWahome&show_icons=true&count_private=true&theme=transparent&title_color=53F7AE&icon_color=53F7AE&text_color=fff&hide_border=true&hide=stars" alt="GitHub Stats for Cynthia Wahome" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cynthia-readme-cards.vercel.app/api/github-stats?username=CynthiaWahome&show_icons=true&count_private=true&theme=transparent&title_color=0a6644&icon_color=0a6644&text_color=000&hide_border=true&hide=stars&v=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-readme-cards.vercel.app/api/github-stats?username=CynthiaWahome&show_icons=true&count_private=true&theme=transparent&title_color=53F7AE&icon_color=53F7AE&text_color=fff&hide_border=true&hide=stars&v=4">
+      <img height="215" src="https://cynthia-readme-cards.vercel.app/api/github-stats?username=CynthiaWahome&show_icons=true&count_private=true&theme=transparent&title_color=53F7AE&icon_color=53F7AE&text_color=fff&hide_border=true&hide=stars&v=4" alt="GitHub Stats for Cynthia Wahome" />
+    </picture>
+  </a>
+  <a href="https://cynthia-readme-cards.vercel.app/">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=compact&langs_count=10&theme=transparent&title_color=0a6644&text_color=1f2328&hide_border=true&hide=html%2Ccss&v=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=compact&langs_count=10&theme=transparent&title_color=53F7AE&text_color=fff&hide_border=true&hide=html%2Ccss&v=4">
+      <img height="215" src="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=compact&langs_count=10&theme=transparent&title_color=53F7AE&text_color=fff&hide_border=true&hide=html%2Ccss&v=4" alt="Top Programming Languages" />
+    </picture>
   </a>
 </div>
 
----
+<br/>
 
-### 💻 Languages
 <div align="center">
-  <a href="https://cynthia-readme-cards.vercel.app/">
-    <img height="300" src="https://cynthia-readme-cards.vercel.app/api/top-langs?username=CynthiaWahome&layout=donut-vertical&langs_count=10&theme=transparent&title_color=53F7AE&text_color=fff&hide_border=true&hide=html,css" alt="Top Programming Languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=light&v=5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=dark&v=5">
+    <img src="https://cynthia-readme-cards.vercel.app/api/daily-tip?theme=dark&v=5" width="100%" style="max-width: 800px;" alt="Scar Tissue — Lessons That Left a Mark" />
+  </picture>
 </div>
 
 ---
@@ -53,13 +65,13 @@
 ### ✍️ Articles
 <div align="center">
   <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?card=1">
-    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?card=1" alt="Dev.to Article 1" />
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?card=1&v=4" alt="Dev.to Article 1" />
   </a>
   <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?pinned=true">
-    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?pinned=true" alt="Dev.to Pinned Article" />
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?pinned=true&v=4" alt="Dev.to Pinned Article" />
   </a>
   <a href="https://cynthia-readme-cards.vercel.app/api/devto-redirect?card=3">
-    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?card=3" alt="Dev.to Article 2" />
+    <img src="https://cynthia-readme-cards.vercel.app/api/devto-single-card?card=3&v=4" alt="Dev.to Article 2" />
   </a>
 </div>
 
@@ -68,7 +80,11 @@
 ### ⚡ Streaks
 <div align="center">
   <a href="https://cynthia-readme-cards.vercel.app/streak">
-    <img src="https://cynthia-streak-engine.vercel.app/?user=CynthiaWahome&theme=transparent&hide_border=true&stroke=53F7AE&ring=53F7AE&fire=53F7AE&currStreakNum=fff&sideNums=fff&sideLabels=53F7AE&dates=53F7AE" alt="GitHub Contribution Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cynthia-streak-engine.vercel.app/?user=CynthiaWahome&theme=transparent&hide_border=true&stroke=1a7f5a&ring=1a7f5a&fire=1a7f5a&currStreakNum=000&sideNums=000&sideLabels=0a6644&dates=0a6644&v=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-streak-engine.vercel.app/?user=CynthiaWahome&theme=transparent&hide_border=true&stroke=53F7AE&ring=53F7AE&fire=53F7AE&currStreakNum=fff&sideNums=fff&sideLabels=53F7AE&dates=53F7AE&v=4">
+      <img src="https://cynthia-streak-engine.vercel.app/?user=CynthiaWahome&theme=transparent&hide_border=true&stroke=53F7AE&ring=53F7AE&fire=53F7AE&currStreakNum=fff&sideNums=fff&sideLabels=53F7AE&dates=53F7AE&v=4" alt="GitHub Contribution Streak" />
+    </picture>
   </a>
 </div>
 
@@ -77,7 +93,11 @@
 ### 🏆 Trophies
 <div align="center">
   <a href="https://cynthia-readme-cards.vercel.app/trophy">
-    <img src="https://cynthia-profile-trophy.vercel.app/?username=CynthiaWahome&theme=tokyonight&no-bg=true&column=5&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://cynthia-profile-trophy.vercel.app/?username=CynthiaWahome&theme=flat&no-bg=true&column=5&margin-w=15&margin-h=15&v=4">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cynthia-profile-trophy.vercel.app/?username=CynthiaWahome&theme=tokyonight&no-bg=true&column=5&margin-w=15&margin-h=15&v=4">
+      <img src="https://cynthia-profile-trophy.vercel.app/?username=CynthiaWahome&theme=tokyonight&no-bg=true&column=5&margin-w=15&margin-h=15&v=4" alt="GitHub Profile Trophies" />
+    </picture>
   </a>
 </div>
 
